@@ -1,5 +1,5 @@
 # Summary
-Companion Matlab files implementing the analyses described in the summited paper:\
+Companion Matlab files implementing the analyses described in the summited paper:\\
 Bae SA, Androulakis IP. Mathematical modeling informs the impact of circadian oscillatory characteristics and meal patterns on insulin secretion. 2019.
 
 # Abstract
